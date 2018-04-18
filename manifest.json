@@ -1,0 +1,19 @@
+{
+    "name": "Restaurant-Reviews",
+	"short_name": "Reviews",
+	"start_url": ".",
+	"display": "standalone",
+    "background_color": "#fff",
+	"description": "Restaurant details and reviews.",
+    "theme_color": "#f3f3f3",
+	"orientation": "portrait",
+    "icons": [{
+        "src": "img/icon.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+    }, {
+        "src": "img/icon512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg"
+    }]
+}
